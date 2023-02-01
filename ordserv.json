@@ -1,13 +1,30 @@
 {
-		"dados": [
-			{
-				"version": "Versão 1.0.6"
-			},
-			{
-				"text": "- Adicionado botão para visualizar os anexos dos equipamentos."
-			},
-			{
-				"text": "- Correção dos valores unitários e totais dos serviços."
-			}
-		]
-	}
+	"dadosreleases": [
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.1"
+				},
+				{
+					"text": "- Texto 4."
+				},
+				{
+					"text": "- Texto 3."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.0"
+				},
+				{
+					"text": "- Texto 2."
+				},
+				{
+					"text": "- Texto 1."
+				}
+			]
+		}
+	]
+}
