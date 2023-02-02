@@ -1,1 +1,15 @@
-1.0.0
+{
+  "dadosreleases": [
+    {
+      "dados": [
+        {
+          "version": "Versão 1.0.0"
+        },
+        {
+          "text": "- Versão de lançamento."
+        }
+      ]
+    }
+    
+  ]
+}
