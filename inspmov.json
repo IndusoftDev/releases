@@ -1,1 +1,138 @@
-1.0.7
+{
+	"dadosreleases": [
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.7"
+				},
+				{
+					"text": "- Melhorias no compartilhamento do PDF."
+				},
+				{
+					"text": "- Melhorias na listagem das fotos para o PDF."
+				},
+				{
+					"text": "- Corrigido! Fotos excluídas no aplicativo não sairão no PDF."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.6"
+				},
+				{
+					"text": "- Agora ao abrir o aplicativo será perguntado se deseja atualizar os dados ou não."
+				},
+				{
+					"text": "- Somente a pré-inspeção poderá ser finalizada incompleta."
+				},
+				{
+					"text": "- Os dados da inspeção anterior serão importados automaticamente."
+				},
+				{
+					"text": "- Adicionado botão na lista de fotos para informar se ela será impressa no PDF ou não."
+				},
+				{
+					"text": "- Adicionado opção para selecionar as fotos antes de imprimir o PDF."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.5"
+				},
+				{
+					"text": "- Correção de bugs."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.4"
+				},
+				{
+					"text": "- Ajuste na listagem das fotos."
+				},
+				{
+					"text": "- Correção nos ícones de status."
+				},
+				{
+					"text": "- Ativado a emissão do PDF."
+				},
+				{
+					"text": "- Agora é possível importar os dados da inspeção anterior."
+				},
+				{
+					"text": "- Agora o inspetor pode inserir uma observação geral do pedido."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.3"
+				},
+				{
+					"text": "- Liberado para finalizar as inspeções mesmo com dados incompletos."
+				},
+				{
+					"text": "- Adicionado 4 inspeções para cada pedido."
+				},
+				{
+					"text": "- Ajuste na câmera para capturar fotos na horizontal."
+				},
+				{
+					"text": "- Retirado a pré-inspeção do aplicativo."
+				},
+				{
+					"text": "- Adicionado botão para verificar atualizações do App."
+				},
+				{
+					"text": "- Corrigido a função do botão Fechar Aplicativo."
+				},
+				{
+					"text": "- Correções de bugs."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.2"
+				},
+				{
+					"text": "- Alteração na visualização do número do pedido do sistema para o número do pedido do cliente."
+				},
+				{
+					"text": "- Ajuste na captura da assinatura."
+				},
+				{
+					"text": "- As inspeções serão atualizadas independente do inspetor."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.1"
+				},
+				{
+					"text": "- Ajuste na gravação do pedido na atualização dos dados."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.0"
+				},
+				{
+					"text": "- Versão de lançamento."
+				}
+			]
+		}
+	]
+}
