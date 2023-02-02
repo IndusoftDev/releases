@@ -1,1 +1,105 @@
-1.0.7
+{
+	"dadosreleases": [
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.7"
+				},
+				{
+					"text": "- O tipo de gás GLP virá selecionado por padrão."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.6"
+				},
+				{
+					"text": "- Agora é possível adicionar, editar e excluir motobombas para o sistema de hidrantes."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.5"
+				},
+				{
+					"text": "- Correção na listagem das fotos."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.4"
+				},
+				{
+					"text": "- Ajustes na gravação e transmissão das fotos."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.3"
+				},
+				{
+					"text": "- Corrigido ícone dos segmentos não apareciam como iniciados ao reabrir a inspeção."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.2"
+				},
+				{
+					"text": "- Alterada a quantidade de fotos para 10 por segmento."
+				},
+				{
+					"text": "- Agora é possível além de excluir, editar os dados da lista de teste de sonoridade e detectores de fumaça."
+				},
+				{
+					"text": "- Corrigido o download dos dados das inspeções reabertas."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.1"
+				},
+				{
+					"text": "- O usuário será notificado de novas atualizações do App."
+				},
+				{
+					"text": "- Agora é possível selecionar mais de um material captor na inspeção SPDA."
+				},
+				{
+					"text": "- Adicionado botão para importar fotos da galeria do aparelho, e adicionado campo para o inspetor informar tipo de gás GN e nome do fornecedor no segmento GAS)."
+				},
+				{
+					"text": "- Habilitado para inserir fotos nos segmentos, também é possível editar inspeções reabertas (Somente usuários autorizados!)."
+				},
+				{
+					"text": "- Habilitado para o segundo técnico executar as inspeções."
+				},
+				{
+					"text": "- Adicionado novas perguntas em hidrantes, Iluminação de Emergência, balizamento de Saída e alarme de Incêndio."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.0"
+				},
+				{
+					"text": "- Lançamento - 16/05/2022"
+				}
+			]
+		}
+	]
+}
