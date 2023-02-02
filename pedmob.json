@@ -1,1 +1,345 @@
-1.3.2
+{
+	"dadosreleases": [
+		{
+			"dados": [
+				{
+					"version": "Versão 1.3.2"
+				},
+				{
+					"text": "- O usuário será notificado de novas atualizações do App."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.3.1"
+				},
+				{
+					"text": "- Após o cadastro de um cliente é possível selecionar se gera ou não um pedido para ele."
+				},
+				{
+					"text": "- Agora para atualizar a lista de notificações basta puxar para baixo."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.3.0"
+				},
+				{
+					"text": "- Corrigido a pesquisa de clientes exibirá somente os ativos no App."
+				},
+				{
+					"text": "- Corrigido a pesquisa de clientes pelo CNPJ/CPF."
+				},
+				{
+					"text": "- Botão 'Gravar' no cadastro de clientes será ocultado durante a gravação."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.9"
+				},
+				{
+					"text": "- Agora não será possível gerar pedidos para clientes bloqueados no sistema."
+				},
+				{
+					"text": "- Inserida consulta online do valor limite de vendas para o cliente! (Opcional)."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.8"
+				},
+				{
+					"text": "- Adicionado ao menu lista de notificações para o vendedor."
+				},
+				{
+					"text": "- As notificações podem ser geradas e direcionadas aos vendedores pelo aplicativo, mas somente usuários autorizados poderão gerá-las."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.7"
+				},
+				{
+					"text": "- Corrigido a busca de produtos pelo código de barras."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.6"
+				},
+				{
+					"text": "- Adicionado leitor de código QR e barras ao pesquisar ou adicionar produtos."
+				},
+				{
+					"text": "- Melhoria na qualidade e captura das imagens dos produtos."
+				},
+				{
+					"text": "- Memorizado a posição do scroll após atualizar a imagem no catálogo de produtos."
+				},
+				{
+					"text": "- Otimização na atualização dos cadastros."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.5"
+				},
+				{
+					"text": "- Corrigido erro ao atualizar cadastros após reinstalar o aplicativo."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.4"
+				},
+				{
+					"text": "- Correções de bugs."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.3"
+				},
+				{
+					"text": "- Corrigido loop infinito pós cancelar um pedido."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.2"
+				},
+				{
+					"text": "- Correções de bugs."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.1"
+				},
+				{
+					"text": "- Correção de erro ao atualizar tabelas."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.0"
+				},
+				{
+					"text": "- Corrigida exclusão de itens do pedido."
+				},
+				{
+					"text": "- Corrigido valor do pedido não atualiza ao deletar todos os itens do pedido."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.9"
+				},
+				{
+					"text": "- Habilitado teste aberto do aplicativo na PlayStore."
+				},
+				{
+					"text": "- Botão clonar pedido só não aparecerá para pedidos em digitação."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.8"
+				},
+				{
+					"text": "- Corrigido loop infinito ao cancelar um pedido."
+				},
+				{
+					"text": "- Correções de bugs."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.7"
+				},
+				{
+					"text": "- Ativada função para clonar pedidos."
+				},
+				{
+					"text": "- Adicionado botão \"Cancelados\" ao filtro de pedidos."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.6"
+				},
+				{
+					"text": "- Agora é possível gerar um PDF do Pedido para encaminhar para o cliente. (Somente para pedidos \"Finalizados\" ou \"Aprovados\")."
+				},
+				{
+					"text": "- Corrigida navegação para a página do pedido ao clicar em \"Novo Pedido\" e aguardar a posição GPS."
+				},
+				{
+					"text": "- Adicionado mais botões de filtro na lista de Pedidos."
+				},
+				{
+					"text": "- Adicionado scroll horizontal nos botões de filtros na lista de pedidos (Somente em telas estreitas)."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.5"
+				},
+				{
+					"text": "- Consulta de estoque automatizada ao adicionar itens ao pedido."
+				},
+				{
+					"text": "- Aviso de estoque insuficiente ao adicionar itens ao pedido."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.4"
+				},
+				{
+					"text": "- Transmissão automática do pedido e itens ao voltar para a tela inicial."
+				},
+				{
+					"text": "- Adicionado botão \"Cancelar\" ao adicionar item ao pedido."
+				},
+				{
+					"text": "- Adicionada cor no status do pedido na tela inicial."
+				},
+				{
+					"text": "- Corrigido consulta de últimos preços ao adicionar item ao pedido."
+				},
+				{
+					"text": "- Corrigido problema na rolagem da lista dos itens do pedido."
+				},
+				{
+					"text": "- Corrigido erro ao finalizar o pedido não atualizava a lista de pedidos."
+				},
+				{
+					"text": "- Substituída função \"Excluir\" por \"Cancelar\" nas opções do pedido."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.3"
+				},
+				{
+					"text": "- Adicionado filtro de grupo e subgrupo no catálogo de produtos."
+				},
+				{
+					"text": "- Adicionado botão com observação do produto no catálogo de produtos."
+				},
+				{
+					"text": "- Adicionado botão para consulta de estoque do produto no catálogo de produtos."
+				},
+				{
+					"text": "- Adicionada quantidade de registros retornados na pesquisa no catálogo de produtos."
+				},
+				{
+					"text": "- Corrigido o botão \"Fechar Aplicativo\" no menu."
+				},
+				{
+					"text": "- Corrigido quando clicava em uma imagem abria a imagem e a seleção de imagens junto, no catálogo de produtos."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.2"
+				},
+				{
+					"text": "- Adicionada confirmação para adicionar coordenadas GPS no cadastro do cliente."
+				},
+				{
+					"text": "- Adicionado Fotos dos produtos na lista de itens do pedido."
+				},
+				{
+					"text": "- Adicionado Fotos dos produtos na pesquisa ao adicionar item ao pedido."
+				},
+				{
+					"text": "- Adicionado atalho para cadastro do cliente no menu."
+				},
+				{
+					"text": "- Adicionado atalho no menu para verificar atualização do aplicativo."
+				},
+				{
+					"text": "- Adicionado campo para informar Inscrição Estadual no cadastro de clientes (Não obrigatório!)."
+				},
+				{
+					"text": "- Adicionado checkbox para informar Regime Tributário no cadastro de clientes (Simples/Normal)."
+				},
+				{
+					"text": "- Adicionado checkbox para informar o indicador de Inscrição estadual no cadastro de clientes (Contribuinte/Isento/Não Contribuinte - Será selecionado automaticamente dependendo se é pessoa jurídica ou física!)."
+				},
+				{
+					"text": "- Correções de bugs."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.1"
+				},
+				{
+					"text": "- Implantado catálogo de produtos."
+				},
+				{
+					"text": "- Corrigidos problemas de login e logout."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.0"
+				},
+				{
+					"text": "- Implantado botão para consulta de preços ao adicionar item ao pedido."
+				},
+				{
+					"text": "- Correções de bugs."
+				}
+			]
+		}
+	]
+}
