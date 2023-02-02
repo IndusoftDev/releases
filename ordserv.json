@@ -314,7 +314,7 @@
           "version": "Versão 1.0.7"
         },
         {
-          "text": "- Agora é possível editar, recortar e girar a foto antes de gravar."
+          "text": "- Agora é possível editar,_recortar e girar a foto antes de gravar."
         }
       ]
     },
@@ -324,7 +324,7 @@
           "version": "Versão 1.0.6"
         },
         {
-          "text": "- Adicionado botão para visualizar os anexos dos equipamentos."
+          "text": "- Adicionado_botão para visualizar os anexos dos equipamentos."
         },
         {
           "text": "- Correção dos valores unitários e totais dos serviços."
