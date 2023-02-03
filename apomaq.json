@@ -3,6 +3,16 @@
 {
       "dados": [
         {
+          "version": "Versão 1.0.3"
+        },
+        {
+          "text": "- Melhorias de desempenho."
+        }
+      ]
+    },
+{
+      "dados": [
+        {
           "version": "Versão 1.0.2"
         },
         {

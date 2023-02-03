@@ -1,6 +1,17 @@
 {
 	"dadosreleases": [
-		{
+		
+            {
+			"dados": [
+				{
+					"version": "Versão 1.0.8"
+				},
+				{
+					"text": "- Melhorias de desempenho."
+				}
+			]
+		},
+            {
 			"dados": [
 				{
 					"version": "Versão 1.0.7"
