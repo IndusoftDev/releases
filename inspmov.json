@@ -1,7 +1,28 @@
 {
 	"dadosreleases": [
-
-             {
+{
+			"dados": [
+				{
+					"version": "Versão 1.0.9"
+				},
+				{
+					"text": "- Agora é possível baixar os anexos do produto para o dispositivo."
+				},
+				{
+					"text": "- Adicionados ícones na lista de anexos."
+				},
+				{
+					"text": "- Melhorias no layout."
+				},
+				{
+					"text": "- Melhoria na transmissão e armazenamento das fotos no dispositivo."
+				},
+				{
+					"text": "- Corrigida a rolagem da lista de fotos que irão para o PDF."
+				}
+			]
+		},
+{
 			"dados": [
 				{
 					"version": "Versão 1.0.8"
