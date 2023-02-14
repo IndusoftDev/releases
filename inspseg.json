@@ -1,6 +1,15 @@
 {
 	"dadosreleases": [
-		
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.9"
+				},
+				{
+					"text": "- Melhorias na finalização das inspeções quando há dois inspetores."
+				}
+			]
+		},
             {
 			"dados": [
 				{
