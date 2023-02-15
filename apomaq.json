@@ -3,6 +3,36 @@
 {
       "dados": [
         {
+          "version": "Versão 1.0.4"
+        },
+        {
+          "text": "- Corrigido travamento ao gravar uma solicitação ou despesa."
+        }
+,
+        {
+          "text": "- Corrigido ícone de status da internet."
+        }
+,
+        {
+          "text": "- Melhorias na transmissão das solicitações e despesas."
+        }
+,
+        {
+          "text": "- Habilitado a rotação da de tela ao utilizar a câmera."
+        }
+,
+        {
+          "text": "- Adicionado as fotos na lista de Solicitações."
+        }
+,
+        {
+          "text": "- Melhorias na transmissão das abastecidas.."
+        }
+      ]
+    },
+{
+      "dados": [
+        {
           "version": "Versão 1.0.3"
         },
         {
