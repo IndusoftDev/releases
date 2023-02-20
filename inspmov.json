@@ -3,6 +3,16 @@
 {
 			"dados": [
 				{
+					"version": "Versão 1.1.0"
+				},
+				{
+					"text": "- Melhorias na verificação da versão do aplicativo na Playstore"
+				}
+			]
+		},
+{
+			"dados": [
+				{
 					"version": "Versão 1.0.9"
 				},
 				{
