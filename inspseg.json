@@ -1,5 +1,15 @@
 {
 	"dadosreleases": [
+             {
+			"dados": [
+				{
+					"version": "Versão 1.1.0"
+				},
+				{
+					"text": "- Corrigido atualização dos dados em dispositivos novos para inspeções já iniciadas."
+				}
+			]
+		},
 		{
 			"dados": [
 				{
