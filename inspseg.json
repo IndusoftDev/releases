@@ -1,5 +1,15 @@
 {
 	"dadosreleases": [
+{
+			"dados": [
+				{
+					"version": "Versão 1.1.1"
+				},
+				{
+					"text": "- Corrigido as permissões de câmera e fotos para Android versão 13."
+				}
+			]
+		},
              {
 			"dados": [
 				{
