@@ -3,6 +3,16 @@
 {
 			"dados": [
 				{
+					"version": "Versão 1.3.6"
+				},
+				{
+					"text": "- Corrigido erro ao abrir a câmera no Android versão 13.."
+				}
+			]
+		},
+{
+			"dados": [
+				{
 					"version": "Versão 1.3.5"
 				},
 				{
