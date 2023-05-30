@@ -1,6 +1,25 @@
 {
-  "dadosreleases": [
-{
+	"dadosreleases": [
+		{
+			"dados": [
+				{
+					"version": "Versão 1.3.9"
+				},
+				{
+					"text": "- Como padrão exibirá todas as ordens de serviço ao atualizar os dados ou iniciar o aplicativo."
+				},
+				{
+					"text": "- Corrigido erro (tela em branco) nas informações de algumas ordem de serviço."
+				},
+				{
+					"text": "- Corrigido erro que não exibia as ordens de serviço finalizadas."
+				},
+				{
+					"text": "- Outras correções de bugs."
+				}
+			]
+		},
+		{
 			"dados": [
 				{
 					"version": "Versão 1.3.8"
@@ -10,7 +29,7 @@
 				}
 			]
 		},
-{
+		{
 			"dados": [
 				{
 					"version": "Versão 1.3.7"
@@ -32,7 +51,7 @@
 				}
 			]
 		},
-{
+		{
 			"dados": [
 				{
 					"version": "Versão 1.3.6"
@@ -42,7 +61,7 @@
 				}
 			]
 		},
-{
+		{
 			"dados": [
 				{
 					"version": "Versão 1.3.5"
@@ -52,355 +71,355 @@
 				}
 			]
 		},
-{
-      "dados": [
-        {
-          "version": "Versão 1.3.4"
-        },
-        {
-          "text": "- Novas perguntas no checklist."
-        },
-        {
-          "text": "- Adicionado botão NA (Não se aplica) no checklist."
-        },
-        {
-          "text": "- Retirado a inspeção quando a OS for checklist."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.3.3"
-        },
-        {
-          "text": "- As fotos serão gravadas temporariamente na memória interna do dispositivo até a transmissão para o servidor."
-        },
-        {
-          "text": "- Melhorias de desempenho."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.3.2"
-        },
-        {
-          "text": "- Correção de bugs."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.3.1"
-        },
-        {
-          "text": "- Melhorias na captura e gravação da assinatura."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.3.0"
-        },
-        {
-          "text": "- Todos os dados serão transmitidos para o servidor antes de serem atualizados no aplicativo."
-        },
-        {
-          "text": "- O laudo técnico somente será atualizado no aplicativo se a OS for reaberta."
-        },
-        {
-          "text": "- Adicionado botão para restaurar a digitação do laudo técnico caso volte a tela ou feche o aplicativo antes de gravar o laudo."
-        },
-        {
-          "text": "- Corrigido erro o tentar atualizar lista de OS e não estiver conectado na internet."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.2.9"
-        },
-        {
-          "text": "- As Ordens de Serviço que forem alteradas o técnico no sistema serão excluídas do dispositivo."
-        },
-        {
-          "text": "- Corrigido o limite de caracteres do Laudo Técnico, Anotações Internas e Informação Comercial."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.2.8"
-        },
-        {
-          "text": "- Adicionados botões para o filtrar as peças."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.2.7"
-        },
-        {
-          "text": "- Retirado o limite de caracteres do Laudo Técnico, Anotações Internas e Informação Comercial."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.2.6"
-        },
-        {
-          "text": "- Ajuste no filtro de peças para não exibir serviços."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.2.5"
-        },
-        {
-          "text": "- Melhorias na busca de peças."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.2.4"
-        },
-        {
-          "text": "- O usuário será notificado de novas atualizações do App."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.2.3"
-        },
-        {
-          "text": "- Opção no menu para transmitir os dados separadamente."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.2.2"
-        },
-        {
-          "text": "- Corrigido a pesquisa do equipamento ao iniciar a OS."
-        },
-        {
-          "text": "- Transmissão dos dados do equipamento para o servidor."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.2.1"
-        },
-        {
-          "text": "- Os produtos não aparecerão na lista de serviços."
-        },
-        {
-          "text": "- Os serviços não aparecerão na lista de produtos."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.2.0"
-        },
-        {
-          "text": "- Melhoria na visualização e transmissão das fotos."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.1.9"
-        },
-        {
-          "text": "- Melhorias na atualização dos dados."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.1.8"
-        },
-        {
-          "text": "- Corrigido travamento ao adicionar fotos."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.1.7"
-        },
-        {
-          "text": "- Corrigido erro ao listar inspeções."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.1.6"
-        },
-        {
-          "text": "- Adicionado o número da ordem no Checklist."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.1.5"
-        },
-        {
-          "text": "- Habilitado Laudo Técnico e anotações internas para as OS do tipo Checklist."
-        },
-        {
-          "text": "- Corrigido a navegação do módulo de fotos para o menu inicial na Home Page."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.1.4"
-        },
-        {
-          "text": "- Corrigido a orientação da tela na captura das fotos."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.1.3"
-        },
-        {
-          "text": "- Agora é possível incluir fotos da galeria do aparelho."
-        },
-        {
-          "text": "- Realizados melhorias na captura da assinatura."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.1.2"
-        },
-        {
-          "text": "- Corrigida alteração do equipamento na página de informações da OS."
-        },
-        {
-          "text": "- Adicionada verificação de fechamento das OS na inicialização do App! (E por padrão irá verificar a cada 5 minutos com o App aberto."
-        },
-        {
-          "text": "- Corrigida a formatação do telefone do cliente sem o DDD na lista de OS e na página de informações da OS."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.1.1"
-        },
-        {
-          "text": "- Adicionada quebra de linha no Laudo Técnico."
-        },
-        {
-          "text": "- Corrigida a navegação do módulo de fotos para voltar para as opções da OS."
-        },
-        {
-          "text": "- Corrigido ícone de fotos do menu não ficava marcado (Verde) ao adicionar fotos na OS.."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.1.0"
-        },
-        {
-          "text": "- Corrigido erro ao gravar as fotos."
-        },
-        {
-          "text": "- Corrigido \"Anotações Internas\" (Não estava gravando!)."
-        },
-        {
-          "text": "- Adicionado \"Problema Reclamado\" na lista de OS."
-        },
-        {
-          "text": "- Removido a opção de adicionar fotos na inspeção."
-        },
-        {
-          "text": "- Alterado ícone (UnCheck) da inspeção e checklist para (X)."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.0.9"
-        },
-        {
-          "text": "- Corrigido erro (Radix-10) ao atualizar tabelas."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.0.8"
-        },
-        {
-          "text": "- Correções de bugs."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.0.7"
-        },
-        {
-          "text": "- Agora é possível editar, recortar e girar a foto antes de gravar."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.0.6"
-        },
-        {
-          "text": "- Adicionado botão para visualizar os anexos dos equipamentos."
-        },
-        {
-          "text": "- Correção dos valores unitários e totais dos serviços."
-        }
-      ]
-    }
-  ]
+		{
+			"dados": [
+				{
+					"version": "Versão 1.3.4"
+				},
+				{
+					"text": "- Novas perguntas no checklist."
+				},
+				{
+					"text": "- Adicionado botão NA (Não se aplica) no checklist."
+				},
+				{
+					"text": "- Retirado a inspeção quando a OS for checklist."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.3.3"
+				},
+				{
+					"text": "- As fotos serão gravadas temporariamente na memória interna do dispositivo até a transmissão para o servidor."
+				},
+				{
+					"text": "- Melhorias de desempenho."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.3.2"
+				},
+				{
+					"text": "- Correção de bugs."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.3.1"
+				},
+				{
+					"text": "- Melhorias na captura e gravação da assinatura."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.3.0"
+				},
+				{
+					"text": "- Todos os dados serão transmitidos para o servidor antes de serem atualizados no aplicativo."
+				},
+				{
+					"text": "- O laudo técnico somente será atualizado no aplicativo se a OS for reaberta."
+				},
+				{
+					"text": "- Adicionado botão para restaurar a digitação do laudo técnico caso volte a tela ou feche o aplicativo antes de gravar o laudo."
+				},
+				{
+					"text": "- Corrigido erro o tentar atualizar lista de OS e não estiver conectado na internet."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.9"
+				},
+				{
+					"text": "- As Ordens de Serviço que forem alteradas o técnico no sistema serão excluídas do dispositivo."
+				},
+				{
+					"text": "- Corrigido o limite de caracteres do Laudo Técnico, Anotações Internas e Informação Comercial."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.8"
+				},
+				{
+					"text": "- Adicionados botões para o filtrar as peças."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.7"
+				},
+				{
+					"text": "- Retirado o limite de caracteres do Laudo Técnico, Anotações Internas e Informação Comercial."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.6"
+				},
+				{
+					"text": "- Ajuste no filtro de peças para não exibir serviços."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.5"
+				},
+				{
+					"text": "- Melhorias na busca de peças."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.4"
+				},
+				{
+					"text": "- O usuário será notificado de novas atualizações do App."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.3"
+				},
+				{
+					"text": "- Opção no menu para transmitir os dados separadamente."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.2"
+				},
+				{
+					"text": "- Corrigido a pesquisa do equipamento ao iniciar a OS."
+				},
+				{
+					"text": "- Transmissão dos dados do equipamento para o servidor."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.1"
+				},
+				{
+					"text": "- Os produtos não aparecerão na lista de serviços."
+				},
+				{
+					"text": "- Os serviços não aparecerão na lista de produtos."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.2.0"
+				},
+				{
+					"text": "- Melhoria na visualização e transmissão das fotos."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.9"
+				},
+				{
+					"text": "- Melhorias na atualização dos dados."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.8"
+				},
+				{
+					"text": "- Corrigido travamento ao adicionar fotos."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.7"
+				},
+				{
+					"text": "- Corrigido erro ao listar inspeções."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.6"
+				},
+				{
+					"text": "- Adicionado o número da ordem no Checklist."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.5"
+				},
+				{
+					"text": "- Habilitado Laudo Técnico e anotações internas para as OS do tipo Checklist."
+				},
+				{
+					"text": "- Corrigido a navegação do módulo de fotos para o menu inicial na Home Page."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.4"
+				},
+				{
+					"text": "- Corrigido a orientação da tela na captura das fotos."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.3"
+				},
+				{
+					"text": "- Agora é possível incluir fotos da galeria do aparelho."
+				},
+				{
+					"text": "- Realizados melhorias na captura da assinatura."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.2"
+				},
+				{
+					"text": "- Corrigida alteração do equipamento na página de informações da OS."
+				},
+				{
+					"text": "- Adicionada verificação de fechamento das OS na inicialização do App! (E por padrão irá verificar a cada 5 minutos com o App aberto."
+				},
+				{
+					"text": "- Corrigida a formatação do telefone do cliente sem o DDD na lista de OS e na página de informações da OS."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.1"
+				},
+				{
+					"text": "- Adicionada quebra de linha no Laudo Técnico."
+				},
+				{
+					"text": "- Corrigida a navegação do módulo de fotos para voltar para as opções da OS."
+				},
+				{
+					"text": "- Corrigido ícone de fotos do menu não ficava marcado (Verde) ao adicionar fotos na OS.."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.0"
+				},
+				{
+					"text": "- Corrigido erro ao gravar as fotos."
+				},
+				{
+					"text": "- Corrigido \"Anotações Internas\" (Não estava gravando!)."
+				},
+				{
+					"text": "- Adicionado \"Problema Reclamado\" na lista de OS."
+				},
+				{
+					"text": "- Removido a opção de adicionar fotos na inspeção."
+				},
+				{
+					"text": "- Alterado ícone (UnCheck) da inspeção e checklist para (X)."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.9"
+				},
+				{
+					"text": "- Corrigido erro (Radix-10) ao atualizar tabelas."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.8"
+				},
+				{
+					"text": "- Correções de bugs."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.7"
+				},
+				{
+					"text": "- Agora é possível editar, recortar e girar a foto antes de gravar."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.6"
+				},
+				{
+					"text": "- Adicionado botão para visualizar os anexos dos equipamentos."
+				},
+				{
+					"text": "- Correção dos valores unitários e totais dos serviços."
+				}
+			]
+		}
+	]
 }
