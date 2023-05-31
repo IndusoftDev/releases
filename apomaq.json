@@ -1,105 +1,112 @@
 {
-  "dadosreleases": [
-{
-      "dados": [
-        {
-          "version": "Versão 1.0.7"
-        },
-        {
-          "text": "- Corrigido erro ao abrir a câmera no Android versão 13."
-        }
-      ]
-    },
-{
-      "dados": [
-        {
-          "version": "Versão 1.0.6"
-        },
-        {
-          "text": "- Corrigido as permissões de câmera e fotos para Android versão 13."
-        }
-      ]
-    },
-{
-      "dados": [
-        {
-          "version": "Versão 1.0.5"
-        },
-        {
-          "text": "- Melhorias na atualização do aplicativo."
-        }
-      ]
-    },
-{
-      "dados": [
-        {
-          "version": "Versão 1.0.4"
-        },
-        {
-          "text": "- Corrigido travamento ao gravar uma solicitação ou despesa."
-        }
-,
-        {
-          "text": "- Corrigido ícone de status da internet."
-        }
-,
-        {
-          "text": "- Melhorias na transmissão das solicitações e despesas."
-        }
-,
-        {
-          "text": "- Habilitado a rotação da de tela ao utilizar a câmera."
-        }
-,
-        {
-          "text": "- Adicionado as fotos na lista de Solicitações."
-        }
-,
-        {
-          "text": "- Melhorias na transmissão das abastecidas.."
-        }
-      ]
-    },
-{
-      "dados": [
-        {
-          "version": "Versão 1.0.3"
-        },
-        {
-          "text": "- Melhorias de desempenho."
-        }
-      ]
-    },
-{
-      "dados": [
-        {
-          "version": "Versão 1.0.2"
-        },
-        {
-          "text": "- Parametrizado a obrigatoriedade de realizar toda a inspeção da máquina ou veículo."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.0.1"
-        },
-        {
-          "text": "- O usuário será notificado a cada atualização do App disponível."
-        }
-      ]
-    },
-    {
-      "dados": [
-        {
-          "version": "Versão 1.0.0"
-        },
-        {
-          "text": "- Versão de lançamento."
-        }
-      ]
-    }
-    
-  ]
+	"dadosreleases": [
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.8"
+				},
+				{
+					"text": "- Corrigido erro ao alterar a máquina ou veículo."
+				},
+				{
+					"text": "- Caso habilitado será transmitido automaticamente os dados da produção ao adicioná-la ou editá-la."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.7"
+				},
+				{
+					"text": "- Corrigido erro ao abrir a câmera no Android versão 13."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.6"
+				},
+				{
+					"text": "- Corrigido as permissões de câmera e fotos para Android versão 13."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.5"
+				},
+				{
+					"text": "- Melhorias na atualização do aplicativo."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.4"
+				},
+				{
+					"text": "- Corrigido travamento ao gravar uma solicitação ou despesa."
+				},
+				{
+					"text": "- Corrigido ícone de status da internet."
+				},
+				{
+					"text": "- Melhorias na transmissão das solicitações e despesas."
+				},
+				{
+					"text": "- Habilitado a rotação da de tela ao utilizar a câmera."
+				},
+				{
+					"text": "- Adicionado as fotos na lista de Solicitações."
+				},
+				{
+					"text": "- Melhorias na transmissão das abastecidas.."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.3"
+				},
+				{
+					"text": "- Melhorias de desempenho."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.2"
+				},
+				{
+					"text": "- Parametrizado a obrigatoriedade de realizar toda a inspeção da máquina ou veículo."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.1"
+				},
+				{
+					"text": "- O usuário será notificado a cada atualização do App disponível."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.0.0"
+				},
+				{
+					"text": "- Versão de lançamento."
+				}
+			]
+		}
+	]
 }
