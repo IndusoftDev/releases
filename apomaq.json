@@ -3,6 +3,19 @@
 		{
 			"dados": [
 				{
+					"version": "Versão 1.0.9"
+				},
+				{
+					"text": "- Corrigido erro ao selecionar Máquina/Veículo."
+				},
+				{
+					"text": "- Melhorias de desempenho."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
 					"version": "Versão 1.0.8"
 				},
 				{
