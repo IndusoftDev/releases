@@ -3,6 +3,16 @@
 		{
 			"dados": [
 				{
+					"version": "Versão 1.4.1"
+				},
+				{
+					"text": "- Solicitação para acessar a memória interna para envio dos dados para análise."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
 					"version": "Versão 1.4.0"
 				},
 				{
