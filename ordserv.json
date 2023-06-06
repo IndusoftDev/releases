@@ -3,6 +3,16 @@
 		{
 			"dados": [
 				{
+					"version": "Versão 1.4.2"
+				},
+				{
+					"text": "- Corrigido erro ao transmitir o laudo técnico com quebra de linha."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
 					"version": "Versão 1.4.1"
 				},
 				{
