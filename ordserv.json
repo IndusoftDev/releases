@@ -3,6 +3,16 @@
 		{
 			"dados": [
 				{
+					"version": "Versão 1.4.4"
+				},
+				{
+					"text": "- Correção de bugs."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
 					"version": "Versão 1.4.3"
 				},
 				{
