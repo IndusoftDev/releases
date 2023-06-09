@@ -3,6 +3,26 @@
 		{
 			"dados": [
 				{
+					"version": "Versão 1.1.1"
+				},
+				{
+					"text": "- Correção de bug."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
+					"version": "Versão 1.1.0"
+				},
+				{
+					"text": "- Melhoria de desempenho."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
 					"version": "Versão 1.0.9"
 				},
 				{
