@@ -3,6 +3,19 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.4.6"
+				},
+				{
+					"text": "- Corrigido erro ao gravar novo cliente."
+				},
+				{
+					"text": "- Corrigido erro ao gerar o recibo."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.4.5"
 				},
 				{
