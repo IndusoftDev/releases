@@ -3,6 +3,22 @@
 		{
 			"dados": [
 				{
+					"version": "Versão 1.1.5"
+				},
+				{
+					"text": "- Corrigido a gravação e listagem das fotos."
+				},
+				{
+					"text": "- Adicionado nome e dados do produto na lista de fotos do checklist."
+				},
+				{
+					"text": "- Após finalizada a inspeção não será possível iniciar a próxima."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
 					"version": "Versão 1.1.4"
 				},
 				{
