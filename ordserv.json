@@ -3,6 +3,25 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.4.7"
+				},
+				{
+					"text": "- Ao iniciar uma ordem de serviço e voltar para a home irá exibir as iniciadas."
+				},
+				{
+					"text": "- Ao adicionar uma nova ordem de serviço irá exibir a lista de OS não iniciadas."
+				},
+				{
+					"text": "- Melhorias na visualização e captura da localização do cliente."
+				},
+				{
+					"text": "- Adicionada opção para ativar cupons de créditos."
+                        }
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.4.6"
 				},
 				{
