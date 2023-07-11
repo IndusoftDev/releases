@@ -3,10 +3,20 @@
 		{
 			"dados": [
 				{
+					"version": "Versão 1.1.7"
+				},
+				{
+					"text": "- Adicionado código da fábrica e cliente na lista de pedidos."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
 					"version": "Versão 1.1.6"
 				},
 				{
-					"text": "- Melhoria de desempenho.."
+					"text": "- Melhoria de desempenho."
 				},
 				{
 					"text": "- Correção de bug."
