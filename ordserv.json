@@ -3,6 +3,22 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.4.8"
+				},
+				{
+					"text": "- Melhoria na gravação do horímetro do equipamento."
+				},
+				{
+					"text": "- Ao excluir uma OS pelo sistema irá excluir do aplicativo automaticamente."
+				},
+				{
+					"text": "- Outras correções de bugs."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.4.7"
 				},
 				{
