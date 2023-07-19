@@ -3,6 +3,22 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.4.9"
+				},
+				{
+					"text": "- Adicionada a opção de recuperação de senha na tela de login."
+				},
+				{
+					"text": "- Agora é obrigatório informar um e-mail ao cadastrar um técnico."
+				},
+				{
+					"text": "- Várias melhorias nas telas de cadastros."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.4.8"
 				},
 				{
