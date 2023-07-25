@@ -3,6 +3,16 @@
              {
 			"dados": [
 				{
+					"version": "Versão 1.5.1"
+				},
+				{
+					"text": "- Adicionado novo parâmetro ao cadastro."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
 					"version": "Versão 1.5.0"
 				},
 				{
