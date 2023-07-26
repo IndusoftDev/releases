@@ -3,6 +3,16 @@
              {
 			"dados": [
 				{
+					"version": "Versão 1.5.2"
+				},
+				{
+					"text": "- Adicionado botão 'NA - Não se aplica' a inspeção do equipamento."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
 					"version": "Versão 1.5.1"
 				},
 				{
