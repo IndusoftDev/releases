@@ -3,6 +3,16 @@
 		{
 			"dados": [
 				{
+					"version": "Versão 1.1.6"
+				},
+				{
+					"text": "- Agora o operador pode listar as inspeções realizadas para fim de auditoria."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
 					"version": "Versão 1.1.5"
 				},
 				{
