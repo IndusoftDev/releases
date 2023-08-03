@@ -3,6 +3,32 @@
              {
 			"dados": [
 				{
+					"version": "Versão 1.5.4"
+				},
+				{
+					"text": "- Melhorias nas transmissões e recebimentos dos dados."
+				},
+				{
+					"text": "- Corrigido erro que não vinha algumas Ordens de Serviço para o App."
+				},
+				{
+					"text": "- Melhorias na verificação se os dados estão ou não transmitidos."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
+					"version": "Versão 1.5.3"
+				},
+				{
+					"text": "- Habilitado a exclusão local das 'OS' excluídas anteriormente no sistema."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
 					"version": "Versão 1.5.2"
 				},
 				{
