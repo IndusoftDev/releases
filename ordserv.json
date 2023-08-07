@@ -3,6 +3,19 @@
              {
 			"dados": [
 				{
+					"version": "Versão 1.5.5"
+				},
+				{
+					"text": "- Adicionado no filtro botão para exibir as OS reabertas."
+				},
+				{
+					"text": "- Click longo nos botões de status exibirá um menu com todas as opções de filtro."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
 					"version": "Versão 1.5.4"
 				},
 				{
