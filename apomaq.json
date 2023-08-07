@@ -3,6 +3,16 @@
 		{
 			"dados": [
 				{
+					"version": "Versão 1.1.7"
+				},
+				{
+					"text": "- Corrigida exibição do tempo de serviço, paradas, deslocamentos e pausas quando for maior que 24 horas."
+				}
+			]
+		},
+		{
+			"dados": [
+				{
 					"version": "Versão 1.1.6"
 				},
 				{
