@@ -3,6 +3,16 @@
              {
 			"dados": [
 				{
+					"version": "Versão 1.5.6"
+				},
+				{
+					"text": "- Correção de bugs na gravação do checklist e inspeção."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
 					"version": "Versão 1.5.5"
 				},
 				{
