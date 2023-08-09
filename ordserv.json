@@ -3,6 +3,25 @@
              {
 			"dados": [
 				{
+					"version": "Versão 1.5.7"
+				},
+				{
+					"text": "- Correção na exibição do horímetro na lista de OS."
+				},
+				{
+					"text": "- Correção de erro (Tela branca) ao selecionar os itens do checklist e inspeção."
+				},
+				{
+					"text": "- Correção na atualização dos ícones de finalização no menu dos itens da OS."
+				},
+				{
+					"text": "- Melhorias na atualização dos ícones de status."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
 					"version": "Versão 1.5.6"
 				},
 				{
