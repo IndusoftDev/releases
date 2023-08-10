@@ -3,6 +3,16 @@
              {
 			"dados": [
 				{
+					"version": "Versão 1.5.8"
+				},
+				{
+					"text": "- Correção de erro dos botões do menu de opções."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
 					"version": "Versão 1.5.7"
 				},
 				{
