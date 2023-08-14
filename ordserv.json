@@ -3,6 +3,19 @@
              {
 			"dados": [
 				{
+					"version": "Versão 1.5.9"
+				},
+				{
+					"text": "- Otimização das listagens das Ordens de serviço."
+				},
+				{
+					"text": "- Correção de bug."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
 					"version": "Versão 1.5.8"
 				},
 				{
