@@ -1,5 +1,18 @@
 {
 	"dadosreleases": [
+           {
+			"dados": [
+				{
+					"version": "Versão 1.2.1"
+				},
+				{
+					"text": "- Ao realizar a inspeção da máquina agora é possível informar se está ok ou não ou se aquela inspeção não se aplica a máquina."
+				},
+				{
+					"text": "- Alteração na listagem dos serviços ao informar a produção."
+				}
+			]
+		},
             {
 			"dados": [
 				{
