@@ -3,6 +3,16 @@
            {
 			"dados": [
 				{
+					"version": "Versão 1.2.2"
+				},
+				{
+					"text": "- Correções de bugs."
+				}
+			]
+		},
+           {
+			"dados": [
+				{
 					"version": "Versão 1.2.1"
 				},
 				{
