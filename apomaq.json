@@ -3,6 +3,19 @@
            {
 			"dados": [
 				{
+					"version": "Versão 1.2.3"
+				},
+				{
+					"text": "- Correções de bugs."
+				},
+				{
+					"text": "- Melhoria na captura de logs de erro."
+				}
+			]
+		},
+           {
+			"dados": [
+				{
 					"version": "Versão 1.2.2"
 				},
 				{
