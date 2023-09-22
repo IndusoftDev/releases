@@ -3,6 +3,19 @@
              {
 			"dados": [
 				{
+					"version": "Versão 1.6.2"
+				},
+				{
+					"text": "- Ajuste no horímetro da inspeção (Aceita somente números)."
+				},
+				{
+					"text": "- Correção de erros na atualização dos dados."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
 					"version": "Versão 1.6.1"
 				},
 				{
