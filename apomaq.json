@@ -3,6 +3,16 @@
            {
 			"dados": [
 				{
+					"version": "Versão 1.2.4"
+				},
+				{
+					"text": "- Agora as paradas de máquina podem ser apontadas mais tarde, mas antes da finalização do serviço."
+				}
+			]
+		},
+           {
+			"dados": [
+				{
 					"version": "Versão 1.2.3"
 				},
 				{
