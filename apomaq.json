@@ -1,5 +1,30 @@
 {
 	"dadosreleases": [
+            {
+			"dados": [
+				{
+					"version": "Versão 1.2.5"
+				},
+				{
+					"text": "- Adicionado o código da frota na lista de máquinas/veículos."
+				},
+				{
+					"text": "- Adicionado na tela inicial texto com o local/fazenda que o serviço foi iniciado."
+				},
+				{
+					"text": "- Agora a lista de inspeções realizadas mostrará somente as 30 anteriores."
+				},
+				{
+					"text": "- As peças da manutenção aparecerão somente as disponíveis para aquela máquina/veículo."
+				},
+				{
+					"text": "- Agora é possível apontar as manutenções da oficina."
+				},
+				{
+					"text": "- Corrigido erro que duplicava o cadastro de peças."
+				}
+			]
+		},
            {
 			"dados": [
 				{
