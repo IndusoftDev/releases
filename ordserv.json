@@ -3,6 +3,16 @@
              {
 			"dados": [
 				{
+					"version": "Versão 1.7.1"
+				},
+				{
+					"text": "- Melhorias ao ocultar as OS reabertas."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
 					"version": "Versão 1.7.0"
 				},
 				{
