@@ -3,6 +3,16 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.2.7"
+				},
+				{
+					"text": "- Correções no tamanho dos botões em geral."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.2.6"
 				},
 				{
