@@ -3,6 +3,40 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.2.8"
+				},
+				{
+					"text": "- As pausas do ponto estão limitadas a: Almoço, Janta e Lanche."
+				},
+				{
+					"text": "- Agora é obrigatório transmitir todos os dados antes de realizar logout ou limpar os dados do App."
+				},
+				{
+					"text": "- Agora é possível escolher via parâmetro se os dados dos serviços e do ponto serão o não transmitidos automaticamente ao gravá-los."
+				},
+				{
+					"text": "- Nesta versão é obrigatório relatar se for constatado algum problema na inspeção do veículo/máquina!"
+				},
+				{
+					"text": "- Agora é possível consultar as inspeções offline, serão atualizadas junto aos dados!"
+				},
+				{
+					"text": "- Adicionado texto com o plano de ação do problema na lista de inspeções. (Serão editados pelo gerencial!)."
+				},
+				{
+					"text": "- Adicionado botão na lista de inspeções realizadas para o operador/motorista informar que foi realizado o reparo."
+				},
+				{
+					"text": "- Caso o operador/motorista selecione folga/banco de horas ao iniciar o serviço será exibido por um tempo na tela e o serviço será encerrado automaticamente após este período."
+				},
+				{
+					"text": "- Ajustes no ponto do Operador/Motorista, parametrizado se poderá ou não iniciar mais de uma folga/banco de horas no dia."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.2.7"
 				},
 				{
