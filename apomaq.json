@@ -3,6 +3,19 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.2.9"
+				},
+				{
+					"text": "- Agora é possível adicionar uma foto do problema na inspeção do veículo/máquina."
+				},
+				{
+					"text": "- Na lista de inspeções realizadas agora é possível adicionar uma foto do problema resolvido."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.2.8"
 				},
 				{
