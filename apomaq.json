@@ -1,6 +1,24 @@
 {
 	"dadosreleases": [
-
+            {
+			"dados": [
+				{
+					"version": "Versão 1.3.2"
+				},
+				{
+					"text": "- Correções de erros ao atualizar os dados."
+				},
+				{
+					"text": "- Bloqueado o login no app para usuários web."
+				},
+				{
+					"text": "- Correções no login ao alterar o nome do usuário."
+				},
+				{
+					"text": "- Correções ao exibir os serviços da máquina."
+				}
+			]
+		},
             {
 			"dados": [
 				{
