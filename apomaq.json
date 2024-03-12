@@ -1,5 +1,6 @@
 {
 	"dadosreleases": [
+
             {
 			"dados": [
 				{
@@ -7,6 +8,9 @@
 				},
 				{
 					"text": "- Agora é possível adicionar uma foto ao informar peso e número da nota no romaneio."
+				},
+				{
+					"text": "- Habilitado Manutenção, Abastecimentos e Inspeção para os caminhões."
 				}
 			]
 		},
