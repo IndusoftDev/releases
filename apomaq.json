@@ -3,6 +3,16 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.3.6"
+				},
+				{
+					"text": "- Agora é possível visualizar o histórico do ponto."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.3.5"
 				},
 				{
