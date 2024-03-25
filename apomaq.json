@@ -3,6 +3,16 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.4.0"
+				},
+				{
+					"text": "- Agora todos os veículos a diesel podem selecionar posto ou tanque ao abastecer."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.3.9"
 				},
 				{
