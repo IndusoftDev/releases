@@ -3,6 +3,25 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.4.1"
+				},
+				{
+					"text": "- Adicionado uma terceira aba para iniciar um serviço com um outro veículo."
+				},
+				{
+					"text": "- Corrigido campo quantidade de produção não iniciava em (1) ao adicionar uma nova."
+				},
+				{
+					"text": "- Corrigido alguns bugs nos botões da tela principal."
+				},
+				{
+					"text": "- Corrigido botão deslocar não aparecia após finalizar um serviço de uma máquina."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.4.0"
 				},
 				{
