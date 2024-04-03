@@ -3,6 +3,16 @@
              {
 			"dados": [
 				{
+					"version": "Versão 1.7.3"
+				},
+				{
+					"text": "- Correções no envio de dados para análise."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
 					"version": "Versão 1.7.2"
 				},
 				{
