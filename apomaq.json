@@ -3,6 +3,22 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.4.2"
+				},
+				{
+					"text": "- A quantidade de litros abastecidos será calculada conforme o número da bomba informados no início e no fim da abastecida."
+				},
+				{
+					"text": "- Correção de erro na tela quando inicia ou pausa o ponto."
+				},
+				{
+					"text": "- Destacado o número da frota na lista de máquinas e veículos."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.4.1"
 				},
 				{
