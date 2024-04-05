@@ -3,6 +3,19 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.4.4"
+				},
+				{
+					"text": "Correção de erro na navegação entre as telas."
+				},
+				{
+					"text": "Adicionado na tela o local de início do ponto."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.4.3"
 				},
 				{
