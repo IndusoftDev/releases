@@ -3,6 +3,19 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.4.5"
+				},
+				{
+					"text": "Ativado para usuários cadastrados realizar abastecimentos com o tanque."
+				},
+				{
+					"text": "Desativado abastecimento para caminhão da oficina."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.4.4"
 				},
 				{
