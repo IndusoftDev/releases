@@ -3,6 +3,16 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.4.6"
+				},
+				{
+					"text": "Ativado a inspeção para o caminhão da oficina."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.4.5"
 				},
 				{
