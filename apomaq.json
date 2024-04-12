@@ -3,6 +3,28 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.4.7"
+				},
+				{
+					"text": "Agora os romaneios devem ser pesquisados pelo número."
+				},
+				{
+					"text": "Os romaneios permitem inserir placa do veículo, número da nota fiscal, peso e foto dos documentos."
+				},
+				{
+					"text": "Adicionado botão para ler com a câmera do dispositivo o código de barras do romaneio."
+				},
+				{
+					"text": "Corrigida função para enviar os dados para análise."
+				},
+				{
+					"text": "Corrigido erro que não exibia as inspeções realizadas para alguns usuários."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.4.6"
 				},
 				{
