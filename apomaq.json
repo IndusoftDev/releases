@@ -3,6 +3,16 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.5.0"
+				},
+				{
+					"text": "Corrigido erro, ao finalizar abastecida com o tanque, as informações não saiam da tela!."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.4.9"
 				},
 				{
