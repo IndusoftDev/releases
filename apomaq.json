@@ -3,6 +3,19 @@
             {
 			"dados": [
 				{
+					"version": "Versão 1.4.9"
+				},
+				{
+					"text": "Habilitado nesta versão para editar o número da bomba inicial e final ao finalizar uma abastecida."
+				},
+				{
+					"text": "As notas fiscais informadas serão validadas antes de gravar o romaneio (Se dispor de conexão com a internet)."
+				}
+			]
+		},
+            {
+			"dados": [
+				{
 					"version": "Versão 1.4.8"
 				},
 				{
