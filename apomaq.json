@@ -6,7 +6,7 @@
 					"version": "Versão 1.5.0"
 				},
 				{
-					"text": "Corrigido erro, ao finalizar abastecida com o tanque, as informações não saiam da tela!."
+					"text": "- Corrigido erro, ao finalizar abastecida com o tanque, as informações não saiam da tela."
 				}
 			]
 		},
@@ -16,10 +16,10 @@
 					"version": "Versão 1.4.9"
 				},
 				{
-					"text": "Habilitado nesta versão para editar o número da bomba inicial e final ao finalizar uma abastecida."
+					"text": "- Habilitado nesta versão para editar o número da bomba inicial e final ao finalizar uma abastecida."
 				},
 				{
-					"text": "As notas fiscais informadas serão validadas antes de gravar o romaneio (Se dispor de conexão com a internet)."
+					"text": "- As notas fiscais informadas serão validadas antes de gravar o romaneio (Se dispor de conexão com a internet)."
 				}
 			]
 		},
@@ -29,7 +29,7 @@
 					"version": "Versão 1.4.8"
 				},
 				{
-					"text": "Agora os romaneios podem ser preenchidos off-line no app."
+					"text": "- Agora os romaneios podem ser preenchidos off line no app."
 				}
 			]
 		},
@@ -39,19 +39,19 @@
 					"version": "Versão 1.4.7"
 				},
 				{
-					"text": "Agora os romaneios devem ser pesquisados pelo número."
+					"text": "- Agora os romaneios devem ser pesquisados pelo número."
 				},
 				{
-					"text": "Os romaneios permitem inserir placa do veículo, número da nota fiscal, peso e foto dos documentos."
+					"text": "- Os romaneios permitem inserir placa do veículo, número da nota fiscal, peso e foto dos documentos."
 				},
 				{
-					"text": "Adicionado botão para ler com a câmera do dispositivo o código de barras do romaneio."
+					"text": "- Adicionado botão para ler com a câmera do dispositivo o código de barras do romaneio."
 				},
 				{
-					"text": "Corrigida função para enviar os dados para análise."
+					"text": "- Corrigida função para enviar os dados para análise."
 				},
 				{
-					"text": "Corrigido erro que não exibia as inspeções realizadas para alguns usuários."
+					"text": "- Corrigido erro que não exibia as inspeções realizadas para alguns usuários."
 				}
 			]
 		},
@@ -61,7 +61,7 @@
 					"version": "Versão 1.4.6"
 				},
 				{
-					"text": "Ativado a inspeção para o caminhão da oficina."
+					"text": "- Ativado a inspeção para o caminhão da oficina."
 				}
 			]
 		},
@@ -71,10 +71,10 @@
 					"version": "Versão 1.4.5"
 				},
 				{
-					"text": "Ativado para usuários cadastrados realizar abastecimentos com o tanque."
+					"text": "- Ativado para usuários cadastrados realizar abastecimentos com o tanque."
 				},
 				{
-					"text": "Desativado abastecimento para caminhão da oficina."
+					"text": "- Desativado abastecimento para caminhão da oficina."
 				}
 			]
 		},
@@ -84,10 +84,10 @@
 					"version": "Versão 1.4.4"
 				},
 				{
-					"text": "Correção de erro na navegação entre as telas."
+					"text": "- Correção de erro na navegação entre as telas."
 				},
 				{
-					"text": "Adicionado na tela o local de início do ponto."
+					"text": "- Adicionado na tela o local de início do ponto."
 				}
 			]
 		},
@@ -97,7 +97,7 @@
 					"version": "Versão 1.4.3"
 				},
 				{
-					"text": "Desabilitado para o caminhão tanque iniciar serviço."
+					"text": "- Desabilitado para o caminhão tanque iniciar serviço."
 				}
 			]
 		},
@@ -217,7 +217,7 @@
 					"text": "- Agora é possível informar o local ao iniciar o ponto."
 				},
 				{
-					"text": "- Alteração para transmissão dos dados independente do tipo de veículo/máquina."
+					"text": "- Alteração para transmissão dos dados independente do tipo de veículo ou máquina."
 				},
 				{
 					"text": "- Habilitado para iniciar serviço dos caminhões e veículos."
@@ -288,7 +288,7 @@
 					"version": "Versão 1.2.9"
 				},
 				{
-					"text": "- Agora é possível adicionar uma foto do problema na inspeção do veículo/máquina."
+					"text": "- Agora é possível adicionar uma foto do problema na inspeção do veículo ou máquina."
 				},
 				{
 					"text": "- Na lista de inspeções realizadas agora é possível adicionar uma foto do problema resolvido."
@@ -310,22 +310,22 @@
 					"text": "- Agora é possível escolher via parâmetro se os dados dos serviços e do ponto serão o não transmitidos automaticamente ao gravá-los."
 				},
 				{
-					"text": "- Nesta versão é obrigatório relatar se for constatado algum problema na inspeção do veículo/máquina!"
+					"text": "- Nesta versão é obrigatório relatar se for constatado algum problema na inspeção do veículo ou máquina"
 				},
 				{
-					"text": "- Agora é possível consultar as inspeções offline, serão atualizadas junto aos dados!"
+					"text": "- Agora é possível consultar as inspeções offline, serão atualizadas junto aos dados"
 				},
 				{
-					"text": "- Adicionado texto com o plano de ação do problema na lista de inspeções. (Serão editados pelo gerencial!)."
+					"text": "- Adicionado texto com o plano de ação do problema na lista de inspeções. (Serão editados pelo gerencial)."
 				},
 				{
-					"text": "- Adicionado botão na lista de inspeções realizadas para o operador/motorista informar que foi realizado o reparo."
+					"text": "- Adicionado botão na lista de inspeções realizadas para o operador ou motorista informar que foi realizado o reparo."
 				},
 				{
-					"text": "- Caso o operador/motorista selecione folga/banco de horas ao iniciar o serviço será exibido por um tempo na tela e o serviço será encerrado automaticamente após este período."
+					"text": "- Caso o operador ou motorista selecione folga ou banco de horas ao iniciar o serviço será exibido por um tempo na tela e o serviço será encerrado automaticamente após este período."
 				},
 				{
-					"text": "- Ajustes no ponto do Operador/Motorista, parametrizado se poderá ou não iniciar mais de uma folga/banco de horas no dia."
+					"text": "- Ajustes no ponto do Operador ou Motorista, parametrizado se poderá ou não iniciar mais de uma folga ou banco de horas no dia."
 				}
 			]
 		},
@@ -355,16 +355,16 @@
 					"version": "Versão 1.2.5"
 				},
 				{
-					"text": "- Adicionado o código da frota na lista de máquinas/veículos."
+					"text": "- Adicionado o código da frota na lista de máquinas ou veículos."
 				},
 				{
-					"text": "- Adicionado na tela inicial texto com o local/fazenda que o serviço foi iniciado."
+					"text": "- Adicionado na tela inicial texto com o local ou fazenda que o serviço foi iniciado."
 				},
 				{
 					"text": "- Agora a lista de inspeções realizadas mostrará somente as 30 anteriores."
 				},
 				{
-					"text": "- As peças da manutenção aparecerão somente as disponíveis para aquela máquina/veículo."
+					"text": "- As peças da manutenção aparecerão somente as disponíveis para aquela máquina ou veículo."
 				},
 				{
 					"text": "- Agora é possível apontar as manutenções da oficina."
@@ -486,7 +486,7 @@
 					"version": "Versão 1.1.4"
 				},
 				{
-					"text": "- Agora é possível adicionar pausas ao serviço do motorista/operador."
+					"text": "- Agora é possível adicionar pausas ao serviço do motorista ou operador."
 				}
 			]
 		},
@@ -536,7 +536,7 @@
 					"version": "Versão 1.0.9"
 				},
 				{
-					"text": "- Corrigido erro ao selecionar Máquina/Veículo."
+					"text": "- Corrigido erro ao selecionar Máquina ou Veículo."
 				},
 				{
 					"text": "- Melhorias de desempenho."
