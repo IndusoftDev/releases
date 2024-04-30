@@ -3,6 +3,16 @@
              {
 			"dados": [
 				{
+					"version": "Versão 1.7.4"
+				},
+				{
+					"text": "- Adicionado nas configurações avançadas um botão para forçar o envio das os e seus itens."
+				}
+			]
+		 },
+             {
+			"dados": [
+				{
 					"version": "Versão 1.7.3"
 				},
 				{
